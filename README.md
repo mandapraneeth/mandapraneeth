@@ -2,6 +2,10 @@
 
 ✨ I'm a Full Stack Developer
 
+✨I have a wide range of skills that include back-end development using open source technologie (NodeJs), front-end development   (ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Microsoft-sql-server,Mysql),GraphQL,Strapi, CI/CD(Docker, kubernetes)
+
+✨I also have good knowledge on Digital Marketing,SEO
+
 <hr/>
 
 ### Languages and Skills
