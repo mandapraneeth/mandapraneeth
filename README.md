@@ -8,6 +8,7 @@
 
 <hr/>
 
+
 ### Languages and Skills
 
 #### 🌐 Frontend
@@ -29,16 +30,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=orange)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
- <hr/>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandapraneeth&exclude_repo=repo1,repo2&hide=language1,language2&layout=compact)](https://github.com/mandapraneeth/github-readme-stats)
 
+ <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandapraneeth&exclude_repo=repo1,repo2&hide=language1,language2&layout=compact)](https://github.com/mandapraneeth/github-readme-stats)
+-->
 <!--repos to hide & language to hide-->
 <!--exclude_repo=repo1,repo2&hide=language1,language2&langs_count=8-->
-
+<!--
 ### Github Stats
 
 [![mandapraneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandapraneeth&show_icons=true&theme=radical)](https://github.com/mandapraneeth/github-readme-stats)
+-->
 
 
 
