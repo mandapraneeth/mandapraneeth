@@ -1,62 +1,63 @@
-## Hi there, I'm PraneethKumar Manda 👋
+# 👋 Hi, I'm Manda Praneeth Kumar
 
-✨ I'm a Full Stack Developer
+![Monosage Logo](./logo.png)
 
-✨I have a wide range of skills that include back-end development using open source technologie (NodeJs), front-end development   (ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Microsoft-sql-server,Mysql),GraphQL,Strapi, CI/CD(Docker, kubernetes)
+🎯 **Working at Monosage Pvt Ltd**
 
-✨I also have good knowledge on Digital Marketing,SEO
+---
 
-<hr/>
+## 💡 About Me
 
+I'm passionate about **Development** and **Digital Marketing** since my undergraduate days in **BSc Computer Science**. After completing my **MCA**, I started my professional journey at **Monosage**, which gave me the platform to explore and grow in the fields I love.
 
-### Languages and Skills
+### 🌐 My Interests & Expertise
+- 🎓 Educational and informational **YouTube content creator**, monetized with **Google AdSense**
+- 🌍 Website development using **WordPress**, and blogging with **Blogger**
+- 💻 Frontend development: `HTML`, `CSS`, `JavaScript`, `React.js`
+- ⚙️ Backend & DBs: `Node.js`, `MySQL`, `MongoDB`, `SQL Server`
+- ☁️ Domain & Hosting Configuration:
+  - GoDaddy, Hostinger, BigRock, Royal Cloud
+  - Hosting with `cPanel` and cloud platforms like **AWS**
+- 🧰 DevOps Enthusiast:
+  - Exploring and implementing CI/CD, Docker, monitoring, infrastructure as code (IaC)
+- 🧑‍🏫 Love teaching Digital Marketing, Web Development & AWS DevOps
 
-#### 🌐 Frontend
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 🛠️ Skills & Tools
 
-#### 🚀 Backend
+### 🌐 Web & Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-#### ⚡ Database
+### ☁️ Cloud & Hosting
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat&logo=godaddy&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white)
 
-![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=orange)
+### 🚀 DevOps Tools (Learning & Exploring)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
+---
 
- <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandapraneeth&exclude_repo=repo1,repo2&hide=language1,language2&layout=compact)](https://github.com/mandapraneeth/github-readme-stats)
--->
-<!--repos to hide & language to hide-->
-<!--exclude_repo=repo1,repo2&hide=language1,language2&langs_count=8-->
-<!--
-### Github Stats
+## 📢 Let's Connect
 
-[![mandapraneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandapraneeth&show_icons=true&theme=radical)](https://github.com/mandapraneeth/github-readme-stats)
--->
+- 💼 [LinkedIn](https://www.linkedin.com/in/manda-praneeth-kumar)
+- 🌐 [My Website/Portfolio](#) *(update this with your website if available)*
+- 📧 Email: [manda.yourmail@example.com](mailto:manda.yourmail@example.com)
 
+---
 
-
-
-
-<!--
- ### Hi there 👋
-**mandapraneeth/mandapraneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 “Keep learning, keep building, and always share knowledge.”
